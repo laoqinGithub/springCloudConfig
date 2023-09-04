@@ -1,2 +1,2 @@
-config:
-   info: this is application test !!!
+1config:
+   info: this is application test !!! version=1 profiles=main
